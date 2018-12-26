@@ -3,7 +3,7 @@ dev angular
 Email: krolandaziawor@gmail.com | freelance web developer(symfony,java spring,angular)
 
 
-===================================================== Angular 6 ===========================================================
+================================ Angular 6 ====================================
 
 Ce petit recaptulatif est fait en Angular 6 pour vous. L'objectif en fait est de créer une vue de login avec le visionnaire de password. Vous y êtes ?
 
