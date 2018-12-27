@@ -48,7 +48,14 @@ Ce petit recaptulatif est fait en Angular 6 pour vous. L'objectif en fait est de
                          
       3. installer angular font awesome reference: 
           $ npm install --save font-awesome angular-font-awesome
-          
+        
+        Ajoutons ensuite le font-awesome.css dans notre fichier angular.json
+        
+           "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/styles.css",
+              "node_modules/font-awesome/css/font-awesome.css"
+            ],
           
  
  Une fois les integrations faites nous sommes donc en mesure d'avoir le resultat souhaité.
