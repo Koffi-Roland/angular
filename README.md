@@ -17,7 +17,11 @@ Ce petit recaptulatif est fait en Angular 6 pour vous. L'objectif en fait est de
  Une fois le projet installé,
   
       1. vous aurez à integrer boostrap 4
-      2. installer ngx-show-hide-password 
+      
+          $ npm install  bootstrap --save
+      
+      2. installer ngx-show-hide-password
+      
           $ npm install ngx-show-hide-password --save
           OH YES! Il ne suffit pas d'installer notre machin seulement. Il faut qu'on l'importe dans notre module de base.
                 
@@ -46,7 +50,7 @@ Ce petit recaptulatif est fait en Angular 6 pour vous. L'objectif en fait est de
           })
       export class AppModule { }
                          
-      3. installer angular font awesome reference: 
+      3. installer angular font awesome
           $ npm install --save font-awesome angular-font-awesome
         
         Ajoutons ensuite le font-awesome.css dans notre fichier angular.json
