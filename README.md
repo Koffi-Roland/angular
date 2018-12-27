@@ -17,10 +17,18 @@ Ce petit recaptulatif est fait en Angular 6 pour vous. L'objectif en fait est de
  Une fois le projet installé,
   
       1. vous aurez à integrer boostrap 4
-      2. installer ngx-show-hide-password refrence: https://www.npmjs.com/package/ngx-show-hide-password
-      3. installer angular font awesome reference: https://www.npmjs.com/package/angular-font-awesome
+      2. installer ngx-show-hide-password 
+          $ npm install ngx-show-hide-password --save
+          OH YES! Il ne suffit d'installer notre machin seulement. Il faut qu'on l'importe dans notre module de base.
+                                              
+                         
+      3. installer angular font awesome reference: 
  
  
  Une fois les integrations faites nous sommes donc en mesure d'avoir le resultat souhaité.
  
  Remarque: Le contenu du code est lisible et facile donc bonne chance à nous. On est ensemble!!!!!!!!!
+
+References:
+  - https://www.npmjs.com/package/ngx-show-hide-password
+  - https://www.npmjs.com/package/angular-font-awesome
