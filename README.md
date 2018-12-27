@@ -25,7 +25,7 @@ Ce petit recaptulatif est fait en Angular 6 pour vous. L'objectif en fait est de
           $ npm install ngx-show-hide-password --save
           OH YES! Il ne suffit pas d'installer notre machin seulement. Il faut qu'on l'importe dans notre module de base.
                 
-                
+         // app.module.ts      
         import { BrowserModule } from '@angular/platform-browser';
         import { NgModule } from '@angular/core';
         import { ShowHidePasswordModule } from 'ngx-show-hide-password';
