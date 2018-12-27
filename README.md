@@ -3,7 +3,7 @@
 show-hide-password
 
 
-Email: krolandaziawor@gmail.com | freelance web developer(symfony,java spring,angular)
+Email: krolandaziawor@gmail.com | freelance web developer (symfony,java spring,angular)
 
 
 ================================ Angular 6 ====================================
