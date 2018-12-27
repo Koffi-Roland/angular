@@ -38,8 +38,8 @@ Ce petit recaptulatif est fait en Angular 6 pour vous. L'objectif en fait est de
               BrowserModule,
               ClarityModule,
               BrowserAnimationsModule,
-              ShowHidePasswordModule.forRoot(),
-              AngularFontAwesomeModule
+              ShowHidePasswordModule.forRoot(),//importation du module ShowHidePassword
+              AngularFontAwesomeModule  //Importation du module FontAwesomeModule
             ],
             providers: [],
             bootstrap: [AppComponent]
@@ -47,7 +47,9 @@ Ce petit recaptulatif est fait en Angular 6 pour vous. L'objectif en fait est de
       export class AppModule { }
                          
       3. installer angular font awesome reference: 
- 
+          $ npm install --save font-awesome angular-font-awesome
+          
+          
  
  Une fois les integrations faites nous sommes donc en mesure d'avoir le resultat souhaité.
  
